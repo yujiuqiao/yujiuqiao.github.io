@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-About Me
+An artificial intelligence algorithm researcher
+Research field including: unsupervised learning, text to speech, text to video and natrual language
 
 ### Educational
 
