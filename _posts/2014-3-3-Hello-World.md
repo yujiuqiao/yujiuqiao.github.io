@@ -1,10 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: About Me
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+As a artificial intelligence algorithm scientist, currently i'm working on the area of text to speech generation, text to video generation and unsupervised learning. 
+I was graduated as a MS. of physics with [Wang, Anzhong](https://www.baylor.edu/physics/index.php?id=68588) at Baylor University. I studied the numerical simulation of the formation of blackhole under the influence of dark energy and dark matter. After graduate I take the career in industry as a business analyst in Conocophillips. After that I became a partner of the startup AI company of Timelement and [Ailinkup](www.ailinkup.cn)
