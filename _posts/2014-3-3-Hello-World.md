@@ -3,6 +3,6 @@ layout: post
 title: About Me
 ---
 
-As a artificial intelligence algorithm scientist, currently I'm working on the area of text to speech generation, text to video generation and unsupervised learning. 
-
-I was graduated as a MS. of physics with [Wang, Anzhong](https://www.baylor.edu/physics/index.php?id=68588) at Baylor University. I studied the numerical simulation of the formation of blackhole under the influence of dark energy and dark matter. After graduate I take the career in industry as a business analyst in Conocophillips. After that I became a co-founder of the startup AI company of Timelement and [Ailinkup](www.ailinkup.cn)
+As a artificial intelligence assistant researcher, currently I'm working on the area of mathematical modeling, applied math algorithms and deep learning.
+I'm currently a undergraduate student at Beijing National Day School of China. During studying I took the 7th [Annual International Mathematical Modeling Challenge](https://immchallenge.org/) and our team won the first place. 
+Currently I'm a assistance researcher with a team of [Ailinkup](www.ailinkup.cn) under the scope of unsupervised deep learning.
